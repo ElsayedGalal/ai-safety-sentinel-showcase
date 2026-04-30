@@ -24,7 +24,7 @@ The model has been validated against diverse, complex scenarios, demonstrating r
 > **Privacy Compliance Note:** For public demonstration, all individual faces and sensitive corporate or geographical logos (on vests, machines, or barriers) have been obfuscated using a sophisticated blur. All YOLOv8 bounding boxes and confidence scores remain crisp and unaltered.
 
 <p align="center">
-  <img src="image_13.png" alt="Enhanced Detection Accuracy Infographic" width="100%">
+  <img src="image_13.webp" alt="Enhanced Detection Accuracy Infographic" width="100%">
 </p>
 
 ### Key Scenario Analysis (Referencing Gallery):
